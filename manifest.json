@@ -1,0 +1,16 @@
+
+{
+  "name": "Ci Vediamo Presto",
+  "short_name": "Presto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8cfd5",
+  "description": "Sorpresa programmata con notifiche e countdown.",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
